@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Emir Yılmaz",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
